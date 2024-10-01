@@ -1,8 +1,8 @@
 build:
   version: "1.0.3-PROD"
 
-loans:
-  message: 'Welcome to our cards management application'
+cards:
+  message: 'NEW !!! Welcome to our cards management application'
   contactDetails:
     name: 'Fox Mulder - CEO'
     email: 'fox@bank.com'

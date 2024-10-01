@@ -1,7 +1,7 @@
 build:
   version: "0.0.1-QA"
 
-loans:
+cards:
   message: 'Welcome to our cards management application'
   contactDetails:
     name: 'Gandalf - QA Lead'
