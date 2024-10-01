@@ -1,10 +1,10 @@
 build:
-  version: "0.0.1-PROD"
+  version: "1.0.2-PROD"
 
 accounts:
   message: 'Welcome to our accounts management application'
   contactDetails:
-    name: 'Fox Mulder - CEO'
+    name: 'Walter Skinner'
     email: '{cipher}d472b2c9e3177fbac18f4aee43d9902ec778b6a93b0d82b56e75a00f941c6544'
   callSupport:
     -(33) 102030405
