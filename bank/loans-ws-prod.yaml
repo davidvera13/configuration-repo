@@ -1,8 +1,8 @@
 build:
-  version: "2.0.0-PROD"
+  version: "3.0.0-PROD"
 
 loans:
-  message: 'I did it again !!! Welcome to our loans management application'
+  message: 'Welcome to our loans management application'
   contactDetails:
     name: 'Fox Mulder - CEO'
     email: 'fox@bank.com'
