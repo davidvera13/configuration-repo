@@ -4,6 +4,7 @@ eureka:
   server:
     evictionIntervalTimerInMs: 60000  # Default is 60000 ms (60 seconds)
   instance:
+    leaseExpirationDurationInSeconds: 90  # Increase this if necessary
     hostname: localhost
   client:
     # we don't want eureka server to call other webservices, we don't need to fetch registry details of other microservices - true for other microservices
