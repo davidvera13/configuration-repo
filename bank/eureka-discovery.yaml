@@ -1,6 +1,8 @@
 server:
   port: 8070
 eureka:
+  server:
+    evictionIntervalTimerInMs: 60000  # Default is 60000 ms (60 seconds)
   instance:
     hostname: localhost
   client:
