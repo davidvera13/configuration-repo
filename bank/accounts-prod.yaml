@@ -2,7 +2,7 @@ build:
   version: 0.0.3-accounts-PROD-REMOTE
 
 accounts:
-  message: 'Welcome to our UPDATED AGAIN GITHUB PROD accounts management application'
+  message: 'Welcome to our UPDATED ONCE AGAIN  GITHUB PROD accounts management application'
   contactDetails:
     name: 'Fox Mulder - CEO'
     #email: 'fox@bank.com'

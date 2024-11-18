@@ -2,7 +2,7 @@ build:
   version: 0.0.3-loans-PROD-REMOTE
 
 loans:
-  message: 'Welcome to our UPDATED AGAIN GITHUB PROD loans management application'
+  message: 'Welcome to our UPDATED ONCE AGAIN  GITHUB PROD loans management application'
   contactDetails:
     name: 'Fox Mulder - CEO'
     #email: 'fox@bank.com'

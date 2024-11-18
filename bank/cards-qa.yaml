@@ -2,7 +2,7 @@ build:
   version: 0.0.3-cards-QA-REMOTE
 
 cards:
-  message: 'Welcome to our UPDATED AGAIN GITHUB QA cards management application'
+  message: 'Welcome to our UPDATED ONCE AGAIN  GITHUB QA cards management application'
   contactDetails:
     name: 'Gandalf - QA Lead'
     #email: 'gandalf@bank.com'

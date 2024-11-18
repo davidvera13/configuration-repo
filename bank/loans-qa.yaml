@@ -2,7 +2,7 @@ build:
   version: 0.0.3-loans-QA-REMOTE
 
 loans:
-  message: 'Welcome to our UPDATED AGAIN GITHUB QA loans management application'
+  message: 'Welcome to our UPDATED ONCE AGAIN  GITHUB QA loans management application'
   contactDetails:
     name: 'Gandalf - QA Lead'
     #email: 'gandalf@bank.com'
