@@ -2,7 +2,7 @@ build:
   version: 0.0.3-accounts-REMOTE
 
 accounts:
-  message: 'Welcome to our UPDATED GITHUB DEFAULT accounts management application'
+  message: 'Welcome to our UPDATED AGAIN GITHUB DEFAULT accounts management application'
   contactDetails:
     name: 'John Steed - Tech lead'
     #email: 'steed@bank.com'

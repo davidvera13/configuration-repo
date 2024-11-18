@@ -2,7 +2,7 @@ build:
   version: 0.0.3-loans-REMOTE
 
 loans:
-  message: 'Welcome to our UPDATED GITHUB DEFAULT loans management application'
+  message: 'Welcome to our UPDATED AGAIN GITHUB DEFAULT loans management application'
   contactDetails:
     name: 'John Steed - CTO'
     #email: 'john@bank.com'
