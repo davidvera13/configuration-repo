@@ -5,7 +5,8 @@ accounts:
   message: 'Welcome to our REMOTE GITHUB QA accounts management application'
   contactDetails:
     name: 'Gandalf - QA Lead'
-    email: 'gandalf@bank.com'
+    #email: 'gandalf@bank.com'
+    email: '{cipher}e851df8f18a9b36a518b68ad3f82b3e4f1b279b6444c49ca3c505bcf9aad565c8a589598c95639cbc9947a200a6b8479'
   callSupport:
     -(33) 102030405
     -(33) 102030406

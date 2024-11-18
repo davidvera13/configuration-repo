@@ -5,7 +5,8 @@ accounts:
   message: 'Welcome to our REMOTE GITHUB PROD accounts management application'
   contactDetails:
     name: 'Fox Mulder - CEO'
-    email: 'fox@bank.com'
+    #email: 'fox@bank.com'
+    email: '{cipher}c566e41d68218bbc5acbf362349d98abaf22910b63deb2596f9c6cd6ae4a93d4'
   callSupport:
     -(33) 102030405
     -(33) 102030406

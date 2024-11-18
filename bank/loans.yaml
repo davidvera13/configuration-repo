@@ -5,7 +5,8 @@ loans:
   message: 'Welcome to our REMOTE GITHUB DEFAULT loans management application'
   contactDetails:
     name: 'John Steed - CTO'
-    email: 'john@bank.com'
+    #email: 'john@bank.com'
+    email: '{cipher}c6d7b27c20718213995ec4317ca55869be3961e59ab37de5f32a60882da96888'
   callSupport:
     -(33) 102030405
     -(33) 102030406

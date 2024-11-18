@@ -5,7 +5,8 @@ cards:
   message: 'Welcome to our REMOTE GITHUB DEFAULT cards management application'
   contactDetails:
     name: 'John Steed - Tech lead'
-    email: 'steed@bank.com'
+    #email: 'steed@bank.com'
+    email: '{cipher}84e4962e0c16540da6f76daf1bbd775788ebb3666985842d14c8fb54908bc58b'
   callSupport:
     -(33) 102030405
     -(33) 102030406

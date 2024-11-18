@@ -5,7 +5,8 @@ accounts:
   message: 'Welcome to our REMOTE GITHUB DEFAULT accounts management application'
   contactDetails:
     name: 'John Steed - Tech lead'
-    email: 'steed@bank.com'
+    #email: 'steed@bank.com'
+    email: '{cipher}cd612c7e7b91d35a8290709d2bd76c61e2c8df1d155d0df21c422cbf73a91cd5'
   callSupport:
     -(33) 102030405
     -(33) 102030406

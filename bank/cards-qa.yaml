@@ -5,7 +5,8 @@ cards:
   message: 'Welcome to our REMOTE GITHUB QA cards management application'
   contactDetails:
     name: 'Gandalf - QA Lead'
-    email: 'gandalf@bank.com'
+    #email: 'gandalf@bank.com'
+    email: '{cipher}e8fa9b95e58e2e233599a81744dd32145fd0ab24a3fed8bf35c1b9b1504ea15d72c7d14ea2e97f607fed3ba5039f95fa'
   callSupport:
     -(33) 102030405
     -(33) 102030406

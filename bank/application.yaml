@@ -1,3 +1,4 @@
 contact:
-  name: 'David Vera DEFAULT GITHUB REMOTE'
-  city: 'Toulon REMOTE'
+  #name: 'ENCRYPTED David Vera DEFAULT GITHUB REMOTE'
+  name: '{cipher}3d478c4ec872b26ea06460541ea8a5fd2be59d50b64a29ef3ca619c742d9102574082548deac82db13794823187b394e5107e0d439a7c0821236657371bfac4a'
+  city: '{cipher}35160aa697d871a827fd654b2437dd0d2ca56e278e04ac96ee00f276e2f4df20'

@@ -5,7 +5,8 @@ loans:
   message: 'Welcome to our REMOTE GITHUB PROD loans management application'
   contactDetails:
     name: 'Fox Mulder - CEO'
-    email: 'fox@bank.com'
+    #email: 'fox@bank.com'
+    email: '{cipher}e071022f0cd4339b8ddacc5fd11afde1eb0a51508bdc23c14d35017bb14b73db'
   callSupport:
     -(33) 102030405
     -(33) 102030406

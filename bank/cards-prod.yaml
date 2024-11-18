@@ -5,7 +5,8 @@ cards:
   message: 'Welcome to our REMOTE GITHUB PROD cards management application'
   contactDetails:
     name: 'Fox Mulder - CEO'
-    email: 'fox@bank.com'
+    #email: 'fox@bank.com'
+    email: '{cipher}11c75ebfecab6d8659fb34eda6f40eb4a15f193db2470311492b9460d8324cdf'
   callSupport:
     -(33) 102030405
     -(33) 102030406

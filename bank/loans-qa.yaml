@@ -5,7 +5,8 @@ loans:
   message: 'Welcome to our REMOTE GITHUB QA loans management application'
   contactDetails:
     name: 'Gandalf - QA Lead'
-    email: 'gandalf@bank.com'
+    #email: 'gandalf@bank.com'
+    email: '{cipher}e3024575c1da89549e59145b5a0c71724dfd95808ef42dafbfcc37508ee22d4f5bc9c6c4ca9e6dff0bfb170e9187740d'
   callSupport:
     -(33) 102030405
     -(33) 102030406
