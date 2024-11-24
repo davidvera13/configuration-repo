@@ -1,5 +1,5 @@
 build:
-  version: 0.0.3-accounts-REMOTE
+  version: 0.0.7-accounts-REMOTE
 
 accounts:
   message: 'Welcome to our UPDATED FOR DOCKER ONCE AGAIN GITHUB DEFAULT accounts management application'

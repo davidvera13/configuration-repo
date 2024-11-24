@@ -1,5 +1,5 @@
 build:
-  version: 0.0.3-loans-PROD-REMOTE
+  version: 0.0.7-loans-PROD-REMOTE
 
 loans:
   message: 'Welcome to our UPDATED FOR DOCKER ONCE AGAIN  GITHUB PROD loans management application'
