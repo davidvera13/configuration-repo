@@ -1,5 +1,5 @@
 build:
-  version: 0.0.7-cards-QA-REMOTE
+  version: 0.0.8-cards-QA-REMOTE
 
 cards:
   message: 'Welcome to our UPDATED FOR DOCKER ONCE AGAIN  GITHUB QA cards management application'
