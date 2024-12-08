@@ -1,5 +1,5 @@
 build:
-  version: 0.0.8-loans-QA-REMOTE
+  version: 0.0.9-loans-QA-REMOTE
 
 loans:
   message: 'Welcome to our UPDATED FOR DOCKER ONCE AGAIN  GITHUB QA loans management application'

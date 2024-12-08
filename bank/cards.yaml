@@ -1,5 +1,5 @@
 build:
-  version: 0.0.8-cards-REMOTE
+  version: 0.0.9-cards-REMOTE
 
 cards:
   message: 'Welcome to our UPDATED FOR DOCKER ONCE AGAIN  GITHUB DEFAULT cards management application'

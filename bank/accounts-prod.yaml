@@ -1,5 +1,5 @@
 build:
-  version: 0.0.8-accounts-PROD-REMOTE
+  version: 0.0.9-accounts-PROD-REMOTE
 
 accounts:
   message: 'Welcome to our UPDATED FOR DOCKER ONCE AGAIN  GITHUB PROD accounts management application'
