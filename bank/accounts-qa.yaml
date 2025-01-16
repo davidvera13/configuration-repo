@@ -1,5 +1,5 @@
 build:
-  version: 0.0.10-accounts-QA-REMOTE
+  version: 0.0.11-accounts-QA-REMOTE
 
 accounts:
   message: 'Welcome to our UPDATED FOR DOCKER ONCE AGAIN  GITHUB QA accounts management application'

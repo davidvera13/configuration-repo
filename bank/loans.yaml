@@ -1,5 +1,5 @@
 build:
-  version: 0.0.10-loans-REMOTE
+  version: 0.0.11-loans-REMOTE
 
 loans:
   message: 'Welcome to our UPDATED FOR DOCKER ONCE AGAIN  GITHUB DEFAULT loans management application'
