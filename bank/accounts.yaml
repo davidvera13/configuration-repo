@@ -1,0 +1,12 @@
+# we keep here only properties that can be overridden
+build:
+  version: 0.0.3-accounts-GITHUB
+
+accounts:
+  message: 'Welcome to our GITHUB DEFAULT accounts management application'
+  contactDetails:
+    name: 'John Steed - Tech lead'
+    email: 'steed@bank.com'
+  callSupport:
+    -(33) 102030405
+    -(33) 102030406
