@@ -1,8 +1,8 @@
 build:
-  version: 0.0.3-loans-PROD-GITHUB
+  version: 0.0.3-loans-PROD-GITHUB-V2
 
 loans:
-  message: 'Welcome to our GITHUB PROD loans management application'
+  message: 'Welcome to our GITHUB PROD V2 loans management application'
   contactDetails:
     name: 'Fox Mulder - CEO'
     email: 'fox@bank.com'
