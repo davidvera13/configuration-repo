@@ -2,7 +2,7 @@ build:
   version: 0.0.3-accounts-PROD-GITHUB-V2
 
 accounts:
-  message: 'Welcome to our GITHUB PROD V2 accounts management application'
+  message: 'Welcome to our GITHUB PROD V3 accounts management application'
   contactDetails:
     name: 'Fox Mulder - CEO'
     email: 'fox@bank.com'
