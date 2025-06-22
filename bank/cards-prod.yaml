@@ -1,8 +1,8 @@
 build:
-  version: 0.0.3-cards-PROD-GITHUB-V5
+  version: 0.0.3-cards-PROD-GITHUB-V6
 
 cards:
-  message: 'Welcome to our GITHUB PROD V5 cards management application'
+  message: 'Welcome to our GITHUB PROD V6 cards management application'
   contactDetails:
     name: 'Fox Mulder - CEO'
     email: 'fox@bank.com'

@@ -1,8 +1,8 @@
 build:
-  version: 0.0.3-accounts-PROD-GITHUB-V5
+  version: 0.0.3-accounts-PROD-GITHUB-V6
 
 accounts:
-  message: 'Welcome to our GITHUB PROD V5 accounts management application'
+  message: 'Welcome to our GITHUB PROD V6 accounts management application'
   contactDetails:
     name: 'Fox Mulder - CEO'
     email: 'fox@bank.com'
