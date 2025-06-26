@@ -1,5 +1,5 @@
 build:
-  version: 0.0.4-loans-PROD-GITHUB-V6
+  version: 0.0.5-loans-PROD-GITHUB-V6
 
 loans:
   message: 'Welcome to our GITHUB PROD V6 loans management application'

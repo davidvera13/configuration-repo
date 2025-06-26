@@ -1,6 +1,6 @@
 # we keep here only properties that can be overridden
 build:
-  version: 0.0.4-accounts-GITHUB
+  version: 0.0.5-accounts-GITHUB
 
 accounts:
   message: 'Welcome to our GITHUB DEFAULT accounts management application'
