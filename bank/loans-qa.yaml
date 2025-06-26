@@ -1,5 +1,5 @@
 build:
-  version: 0.0.3-loans-QA-GITHUB
+  version: 0.0.4-loans-QA-GITHUB
 
 loans:
   message: 'Welcome to our GITHUB QA loans management application'
