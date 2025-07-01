@@ -1,5 +1,5 @@
 build:
-  version: 0.0.5-cards-QA-GITHUB
+  version: 0.0.5b-cards-QA-GITHUB
 
 cards:
   message: 'Welcome to our GITHUB QA cards management application'
