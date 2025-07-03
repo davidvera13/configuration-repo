@@ -1,0 +1,12 @@
+# eureka configuration as client application
+eureka:
+  instance:
+    preferIpAddress: true
+    # to avoid: EMERGENCY! EUREKA MAY BE INCORRECTLY CLAIMING INSTANCES ARE UP WHEN THEY'RE NOT
+    leaseRenewalIntervalInSeconds: 10  # Default is 30 seconds
+    leaseExpirationDurationInSeconds: 30  # Eureka expires the instance after 30 seconds of no heartbeat
+  client:
+    fetchRegistry: true
+    registerWithEureka: true
+    serviceUrl:
+      defaultZone: http://localhost:8070/eureka/
