@@ -1,5 +1,5 @@
 build:
-  version: 0.0.6-accounts-QA-GITHUB
+  version: 0.0.7-accounts-QA-GITHUB
 
 accounts:
   message: 'Welcome to our GITHUB QA accounts management application'
