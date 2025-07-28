@@ -1,5 +1,5 @@
 build:
-  version: 0.0.9-cards-GITHUB
+  version: 0.0.10-cards-GITHUB
 
 cards:
   message: 'Welcome to our GITHUB DEFAULT cards management application'
