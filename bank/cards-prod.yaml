@@ -1,5 +1,5 @@
 build:
-  version: 0.0.10-cards-PROD-GITHUB-V6
+  version: 0.0.11-cards-PROD-GITHUB-V6
 
 cards:
   message: 'Welcome to our GITHUB PROD V6 cards management application'

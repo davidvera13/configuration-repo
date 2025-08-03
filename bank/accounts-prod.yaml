@@ -1,5 +1,5 @@
 build:
-  version: 0.0.10-accounts-PROD-GITHUB-V6
+  version: 0.0.11-accounts-PROD-GITHUB-V6
 
 accounts:
   message: 'Welcome to our GITHUB PROD V6 accounts management application'
