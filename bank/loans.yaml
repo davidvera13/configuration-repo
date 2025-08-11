@@ -1,5 +1,5 @@
 build:
-  version: 0.0.11-loans-GITHUB
+  version: 0.0.12-loans-GITHUB
 
 loans:
   message: 'Welcome to our GITHUB DEFAULT loans management application'
